@@ -1,0 +1,21 @@
+PODS:
+  - swiftScan (1.2.1)
+
+DEPENDENCIES:
+  - swiftScan (from `https://github.com/lecong/swiftScan.git`)
+
+EXTERNAL SOURCES:
+  swiftScan:
+    :git: https://github.com/lecong/swiftScan.git
+
+CHECKOUT OPTIONS:
+  swiftScan:
+    :commit: ced9e9cfc89ab7e36c9a1a6c9b8a5ba4589f957a
+    :git: https://github.com/lecong/swiftScan.git
+
+SPEC CHECKSUMS:
+  swiftScan: 0849e7d7c1c641384767a573ee8cb90b88d1ddd9
+
+PODFILE CHECKSUM: 6f6517b5908ada2a0d0be47d4c7ed78d2c5b55fc
+
+COCOAPODS: 1.11.2
